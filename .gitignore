@@ -1,0 +1,13 @@
+*.prj
+*.shx
+*.cpg
+*.tif
+*.qmd
+other_hospitals.dbf
+other_hospitals.shp
+other_concaid_hospitals.qmd
+other_concaid_hospitals.shp
+other_concaid_hospitals.dbf
+hospitals_ug.shp
+hospitals_ug.dbf
+Uganda-boundaries/
